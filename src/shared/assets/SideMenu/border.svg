@@ -1,0 +1,19 @@
+<svg width="80" height="60" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <defs>
+            <mask id="mask_#IOwiSjsna231owMnz">
+                <rect
+                        x="24" y="10" width="40" height="40" fill="white"
+                />
+                <rect
+                        style="clip-path: circle(70% at 100% 100%);"
+                        x="24" y="10" width="40" height="40" fill="black"
+                />
+            </mask>
+        </defs>
+        <rect
+                mask="url(#mask_#IOwiSjsna231owMnz)"
+                x="24" y="10" width="40" height="40" fill="#3d608f"
+        />
+    </g>
+</svg>

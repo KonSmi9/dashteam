@@ -1,0 +1,52 @@
+.header {
+  min-height: 60px;
+  width: auto;
+  background-color: #3D608F;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  padding: 0 30px 0 72px;
+  position: sticky;
+  top: 0;
+  z-index: 99;
+
+  &__menu {
+    font-size: 21px;
+    color: #FFFFFF;
+    gap: 22.12px;
+    display: flex;
+    align-items: center;
+
+    &__profile, &__icon {
+      cursor: pointer;
+
+      &:last-child {
+        margin-right: 0;
+      }
+    }
+
+    &__profile {
+      display: flex;
+      align-items: center;
+      height: 40px;
+
+      font-size: 14px;
+      color: black;
+
+      &__avatar {
+        width: 35px;
+        height: 35px;
+        color: white;
+        display: flex;
+        gap: 24px;
+        font-size: large;
+        font-weight: 300;
+        border-radius: 50%;
+        position: relative;
+        align-items: center;
+        justify-content: center;
+        background-color: #1F487E;
+      }
+    }
+  }
+}

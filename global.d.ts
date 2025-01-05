@@ -5,3 +5,8 @@ declare module '*.scss' {
     const classNames: IClassNames;
     export = classNames;
 }
+
+declare module '*.svg' {
+    const content: React.FC<React.SVGProps<SVGSVGElement>>;
+    export default content;
+}
