@@ -1,0 +1,70 @@
+:root {
+  // Основные цвета
+  --white: #FFFFFF;
+  --black: #000000;
+  --gray-100: #F8FAFD;
+  --gray-200: #F3F5F8;
+  --gray-300: #DADADA;
+  --gray-400: #CED1D7;
+  --gray-500: #B7C1D5;
+  --gray-600: #A9A9A9;
+  --gray-800: #959DAC;
+  --gray-900: #434343;
+  --blue-100: #E0E4F0;
+  --blue-600: #3083FF;
+  --blue-700: #1E72D7;
+  --blue-800: #176DB7;
+  --red-450: #F25A5F;
+  --red-600: #ED1C24;
+  --green-600: #43A047;
+
+  // Цвета для сообщений
+  --error: #ff4d4f;
+  --warning: #e79637;
+  --info: #0d86e7;
+  --file-inactive: #a8adb5;
+  --warning-dark: #f9b042;
+  --warning-light: #FCD8A1;
+  --background-faint-light: #F8FAFD;
+  --background-gray-100: #D9D9D9;
+  --text-gray: #333333;
+  --text-gray-400: #8C959E;
+  --text-gray-200: #B7C1D5;
+  --placeholder-gray: #959DAC;
+
+  // Цвета для акцентов и оформления:
+  --accent-dark: #3D608F;
+  --link-complement-light: #1E72D7;
+  --text-complement-light: #2369A1;
+  --text-accent-dark: #474444;
+
+  // Новые цвета
+  --base-dark: #333333;
+  --base-light: #FFFFFF;
+
+  --faint-light: #B7C1D4;
+  --faint-dark: #959DAC;
+  --line-faint-light: #CBD1E0;
+
+  --complement-light: #587EAD;
+  --complement-dark: #1F487E;
+
+  --critic-dark: #ED1C24;
+  --critic-light: #DF9797;
+  --critic-bg-dark: #4B5D75;
+
+  --success-dark: #698979;
+  --success-light: #B4C4BC;
+
+
+  // Фон
+  --context-color-hover: #8FA9C8;
+
+  --layout-bg-color: rgb(236, 235, 233);
+  --layout-color: #F3F5F8;
+
+  --footer-bg-color: #e1e3e6;
+  --footer-text-color: #757d8a;
+  --footer-icon-color: #fff;
+}
+
